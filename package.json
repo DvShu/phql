@@ -1,0 +1,18 @@
+{
+  "name": "phql",
+  "version": "0.0.1",
+  "description": "Convert a string of a specific format to the data filter parameter form of MongoDB.",
+  "main": "index.js",
+  "repository": "git@github.com:DvShu/phql.git",
+  "author": "DvShu <1joelshu@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "phql",
+    "mongodb",
+    "filter"
+  ],
+  "files": [
+    "index.js"
+  ]
+}
